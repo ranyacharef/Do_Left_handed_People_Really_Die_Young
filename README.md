@@ -6,5 +6,4 @@ In this project, you will explore this phenomenon using age distribution data to
 
 This project lets you apply the skills from pandas Foundations, Statistical Thinking in Python, Introduction to Data Visualization with Python, and concepts from Foundations of Probability in R and Fundamentals of Bayesian Data Analysis in R, including reading data, creating new columns, creating matplotlib visualizations, using numpy arrays, constructing probabilities from frequency data, and Bayes' theorem. We recommend that you take those courses before starting this project.
 
-### *To test the application :* 
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ranyacharef/Do_Left_handed_People_Really_Die_Young/master)
+### *To test the application :* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ranyacharef/Do_Left_handed_People_Really_Die_Young/master)
