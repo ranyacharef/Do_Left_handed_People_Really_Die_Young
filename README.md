@@ -7,6 +7,7 @@ This project lets you apply the skills from pandas Foundations, Statistical Thin
 ### *Project Structure*
 <p style="padding-left: 170px"> :file_folder: Dataset </p>
 <p style="padding-left: 170px"> :pencil: Project Notebook </p>
-<p style="padding-left: 170px"> :pencil: Readme File </p>
+<p style="padding-left: 170px"> :mag_right: Readme File </p>
+<p>:paperclip: Requirements to launch the Binder</p>
 
 ### *To test the application :* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ranyacharef/Do_Left_handed_People_Really_Die_Young/master)
